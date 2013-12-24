@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-		"guzzle/http": "v3.8.0",
+		"guzzle/http": "v3.7.3",
 		"doctrine/cache": "v1.3.0"
     },
 	"require-dev": {
