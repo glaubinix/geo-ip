@@ -1,0 +1,9 @@
+#IDE
+.idea
+atlassian-ide-plugin.xml
+
+#composer
+vendor/
+
+#build
+build/
