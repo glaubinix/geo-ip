@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/glaubinix/geo-ip.png?branch=master)](https://travis-ci.org/glaubinix/geo-ip)
+
 # PHP GeoIp Wrapper Library
 
 Just a simple wrapper library around different geo ip provider.
